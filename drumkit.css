@@ -1,0 +1,26 @@
+div {
+display:flex;
+flex-direction:row;
+justify-content:space-around;
+}
+button {padding:40px 40px 40px 40px;
+	background-color:black;
+	border-color:black;
+	color:white;
+}
+audio {
+	display:none;
+}
+h1{font-size: 100px;
+}
+.gold{
+	border-color:gold;
+	box-shadow:0 0 20px black;
+	transform:scale(1.2);
+}
+body{
+	color:white;
+background: linear-gradient( rgba(50, 50, 50, 0.3), rgba(50, 50, 50, 0.3) ), url('matthijs-smit-579209-unsplash.jpg');
+background-repeat:no-repeat;
+background-size:cover;
+padding-bottom:5%;}
